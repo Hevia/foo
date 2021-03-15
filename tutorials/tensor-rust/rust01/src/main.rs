@@ -4,7 +4,7 @@ fn main() {
     
     println!("xs: {:?}", xs[2]);
     println!("ys: {:?}", ys[0]);
-    xs[2] = 4;
+    // xs[2] = 4;
     println!("xs: {:?}", xs[2]);
     println!("ys: {:?}", ys[0]);
 }
